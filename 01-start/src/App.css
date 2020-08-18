@@ -1,0 +1,13 @@
+/*
+ * @Author: niumengfei
+ * @Date: 2020-08-17 16:13:31
+ * @LastEditors: niumengfei
+ * @LastEditTime: 2020-08-18 16:19:28
+ */
+.APP{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
